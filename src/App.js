@@ -3,6 +3,7 @@ import { Navbar } from "./components";
 import { Header } from "./containers";
 
 import "./App.css";
+import Brand from "./components/brand/Brand";
 
 const App = () => {
   return (
@@ -11,6 +12,7 @@ const App = () => {
         <Navbar />
         <Header />
       </div>
+      <Brand />
     </div>
   );
 };
