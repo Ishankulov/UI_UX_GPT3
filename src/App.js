@@ -4,6 +4,7 @@ import { Header } from "./containers";
 
 import "./App.css";
 import Brand from "./components/brand/Brand";
+import WhatGPT3 from "./containers/whatGPT3/WhatGPT3";
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
         <Header />
       </div>
       <Brand />
+      <WhatGPT3 />
     </div>
   );
 };
