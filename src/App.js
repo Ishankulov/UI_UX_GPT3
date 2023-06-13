@@ -8,6 +8,7 @@ import WhatGPT3 from "./containers/whatGPT3/WhatGPT3";
 import Features from "./containers/features/Features";
 import Possibility from "./containers/possibility/Possibility";
 import CTA from "./components/cta/CTA";
+import Blog from "./containers/blog/Blog";
 
 const App = () => {
   return (
@@ -21,6 +22,7 @@ const App = () => {
       <Features />
       <Possibility/>
       <CTA/>
+      <Blog/>
     </div>
   );
 };
