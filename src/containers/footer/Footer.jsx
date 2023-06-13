@@ -18,7 +18,7 @@ const Footer = () => (
       <div className="gpt3__footer-links_logo">
         <img src={gpt3Logo} alt="gpt3_logo" />
         <p>
-          Craeting by IMA, <br /> All Rights Reserved
+          Creating by IMA, <br /> All Rights Reserved
         </p>
       </div>
       <div className="gpt3__footer-links_div">
@@ -36,8 +36,8 @@ const Footer = () => (
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Get in touch</h4>
-        <p>Crechterwoord K12 182 DK Alknjkcb</p>
-        <p>085-132567</p>
+        <p>Creating by IMA</p>
+        <p>987-654-321</p>
         <p>info@ima.net</p>
       </div>
     </div>
